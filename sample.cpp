@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#define task "problem"
+#define task ""
 #define debug(x) cerr << #x << " = " << x
 
 using namespace std;
