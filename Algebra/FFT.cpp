@@ -1,4 +1,4 @@
-//Given two array A and B
+//Given two arrays A and B
 //Calculate get(i)=sigma(A(j)*B(i-j)) with 0<=j<=i
 // O(nlogn)
 
